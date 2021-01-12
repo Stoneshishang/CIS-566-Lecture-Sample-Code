@@ -1,0 +1,10 @@
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\bin\Debug\netcoreapp3.1\BuilderPatternExercise.exe
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\bin\Debug\netcoreapp3.1\BuilderPatternExercise.deps.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\bin\Debug\netcoreapp3.1\BuilderPatternExercise.runtimeconfig.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\bin\Debug\netcoreapp3.1\BuilderPatternExercise.runtimeconfig.dev.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\bin\Debug\netcoreapp3.1\BuilderPatternExercise.dll
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\bin\Debug\netcoreapp3.1\BuilderPatternExercise.pdb
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\obj\Debug\netcoreapp3.1\BuilderPatternExercise.AssemblyInfoInputs.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\obj\Debug\netcoreapp3.1\BuilderPatternExercise.AssemblyInfo.cs
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\obj\Debug\netcoreapp3.1\BuilderPatternExercise.dll
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\BuilderPatternExercise\BuilderPatternExercise\obj\Debug\netcoreapp3.1\BuilderPatternExercise.pdb

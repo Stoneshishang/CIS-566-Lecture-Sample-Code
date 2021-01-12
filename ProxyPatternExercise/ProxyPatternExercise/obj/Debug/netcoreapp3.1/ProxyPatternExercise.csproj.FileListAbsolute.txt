@@ -1,0 +1,13 @@
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\bin\Debug\netcoreapp3.1\ProxyPatternExercise.exe
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\bin\Debug\netcoreapp3.1\ProxyPatternExercise.deps.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\bin\Debug\netcoreapp3.1\ProxyPatternExercise.runtimeconfig.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\bin\Debug\netcoreapp3.1\ProxyPatternExercise.runtimeconfig.dev.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\bin\Debug\netcoreapp3.1\ProxyPatternExercise.dll
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\bin\Debug\netcoreapp3.1\ProxyPatternExercise.pdb
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\obj\Debug\netcoreapp3.1\ProxyPatternExercise.csprojAssemblyReference.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\obj\Debug\netcoreapp3.1\ProxyPatternExercise.csproj.CoreCompileInputs.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\obj\Debug\netcoreapp3.1\ProxyPatternExercise.AssemblyInfoInputs.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\obj\Debug\netcoreapp3.1\ProxyPatternExercise.AssemblyInfo.cs
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\obj\Debug\netcoreapp3.1\ProxyPatternExercise.dll
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\obj\Debug\netcoreapp3.1\ProxyPatternExercise.pdb
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ProxyPatternExercise\ProxyPatternExercise\obj\Debug\netcoreapp3.1\ProxyPatternExercise.genruntimeconfig.cache

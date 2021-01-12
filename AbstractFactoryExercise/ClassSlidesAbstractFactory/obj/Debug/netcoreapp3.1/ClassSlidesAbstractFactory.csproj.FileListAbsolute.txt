@@ -1,0 +1,11 @@
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\bin\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.exe
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\bin\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.deps.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\bin\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.runtimeconfig.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\bin\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.runtimeconfig.dev.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\bin\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.dll
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\bin\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.pdb
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\obj\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.csprojAssemblyReference.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\obj\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\obj\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.AssemblyInfo.cs
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\obj\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.dll
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSlidesAbstractFactory\ClassSlidesAbstractFactory\obj\Debug\netcoreapp3.1\ClassSlidesAbstractFactory.pdb

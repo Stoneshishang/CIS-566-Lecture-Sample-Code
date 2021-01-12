@@ -1,0 +1,11 @@
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\bin\Debug\netcoreapp3.1\ClassSingletonExample.exe
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\bin\Debug\netcoreapp3.1\ClassSingletonExample.deps.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\bin\Debug\netcoreapp3.1\ClassSingletonExample.runtimeconfig.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\bin\Debug\netcoreapp3.1\ClassSingletonExample.runtimeconfig.dev.json
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\bin\Debug\netcoreapp3.1\ClassSingletonExample.dll
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\bin\Debug\netcoreapp3.1\ClassSingletonExample.pdb
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\obj\Debug\netcoreapp3.1\ClassSingletonExample.csprojAssemblyReference.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\obj\Debug\netcoreapp3.1\ClassSingletonExample.AssemblyInfoInputs.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\obj\Debug\netcoreapp3.1\ClassSingletonExample.AssemblyInfo.cs
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\obj\Debug\netcoreapp3.1\ClassSingletonExample.dll
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\Class C# example\ClassSingletonExample\ClassSingletonExample\obj\Debug\netcoreapp3.1\ClassSingletonExample.pdb
